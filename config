@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "GitHub-Lucky-Bean-Restaurant"]
+	url = https://github.com/ngcobo1216/luckybean_redesign.git
+	fetch = +refs/heads/*:refs/remotes/GitHub-Lucky-Bean-Restaurant/*
