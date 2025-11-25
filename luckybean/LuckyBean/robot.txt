@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /images/private/
+Allow: /
+Sitemap: http://www.luckybeanexample.com/sitemap.xml
